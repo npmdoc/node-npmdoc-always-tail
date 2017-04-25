@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### api documentation for  always-tail (v0.2.0)  [![npm package](https://img.shields.io/npm/v/npmdoc-always-tail.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-always-tail) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-always-tail.svg)](https://travis-ci.org/npmdoc/node-npmdoc-always-tail)",
+    "description": "#### basic api documentation for  [always-tail (v0.2.0)](https://github.com/jandre/always-tail)  [![npm package](https://img.shields.io/npm/v/npmdoc-always-tail.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-always-tail) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-always-tail.svg)](https://travis-ci.org/npmdoc/node-npmdoc-always-tail)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "utility2": "kaizhu256/node-utility2#alpha"
